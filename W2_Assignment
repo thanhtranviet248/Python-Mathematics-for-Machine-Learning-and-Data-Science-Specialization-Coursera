@@ -1,0 +1,19 @@
+import numpy as np
+
+#swap row
+def swap_row(M,row_index_1,row_index_2):
+  M = M.copy()
+  M[[row_index_1,row_index_2]]=M[[row_index_2,row_index_1]]
+  return M
+
+M = np.array([[1,2,3],[4,5,6],[7,8,9]])
+
+def get_index_first_non_zero_value_from_column(M, column, starting_row):
+  column_array = M[starting_row:,column]
+  for i, val in enumerate(column_array):
+    if not np.isclose(val,0,atol = 0):
+      index = i + starting_row
+      return index
+  return -1
+
+get_index_first_non_zero_value_from_column(M, 0, 0)
