@@ -9,5 +9,9 @@ The specialization includes 3 courses: Linear Algebra, Calculus and Probability 
 Course 1: Linear Algebra
 [Linear Algebra Certification](https://github.com/user-attachments/files/17084046/Coursera.FJSDSDQLX3QQ.1.pdf)
 * Week 1: System of Linear Equation:
-* * 
+  * System of Equations
+  * Singularity & Non-Singularity
+  * Linearly dependent & Linearly independent
+  * Determinants
+  * Linear Systems as Matrices
 
