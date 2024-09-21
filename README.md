@@ -1,9 +1,9 @@
 # Coursera: Mathematics for Machine Learning and Data Science Specialization
 
-This project is where I upload my programming assigments for the Mathematics for Machine Learning and Data Science Specialization on Coursera.
+This repository is where I upload my programming exercises and graded assigments for the Mathematics for Machine Learning and Data Science Specialization on Coursera.
 
 
-The specialization includes 3 courses: Linear Algebra, Calculus and Probability & Statistics. Below are the contents of each course:
+The specialization includes 3 smaller courses: Linear Algebra, Calculus and Probability & Statistics. Below are the contents and my certifications of each course:
 
 
 Course 1: Linear Algebra
