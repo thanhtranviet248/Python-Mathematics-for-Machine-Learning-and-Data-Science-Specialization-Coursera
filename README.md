@@ -12,3 +12,10 @@ Course 1: Linear Algebra
 * Week 2 - Solving system of linear equation: Matrix row-reduction, Rank of a matrix, Row echelon form, The Gaussian elimination algorithm
 * Week 3 - Vectors and linear transformations: Vector and their properties, Vector operations, Linear transformation
 * Week 4 - Determinants and eigenvectors: Singularity and rank of linear transformations, Determinant as a area, Bases and spans in linear algebra, Eigenbases, Eigenvalues and eigenvectors, PCA
+
+Course 2: Calculus
+[Calculus Certification](https://www.coursera.org/account/accomplishments/certificate/BTVHFOYWGJJ8)
+* Week 1 - System of linear equations: System of equations, Singularity & non-singularity, Linearly dependent & linearly independent, Determinants, Linear systems as matrices
+* Week 2 - Solving system of linear equation: Matrix row-reduction, Rank of a matrix, Row echelon form, The Gaussian elimination algorithm
+* Week 3 - Vectors and linear transformations: Vector and their properties, Vector operations, Linear transformation
+* Week 4 - Determinants and eigenvectors: Singularity and rank of linear transformations, Determinant as a area, Bases and spans in linear algebra, Eigenbases, Eigenvalues and eigenvectors, PCA
